@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Second Year BTech Student | [Your Branch, e.g. Computer Science]</h3>
+<h1 align="center">Hi there, I'm ADITYA ANAND 👋</h1>
+<h3 align="center">Second Year BTech Student |Btech in Ai&Ml</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
